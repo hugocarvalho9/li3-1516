@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CatalogoClientes()
+comment1.params=set
+comment1.target=CatalogoClientes(java.util.Set)
+comment2.params=catCli
+comment2.target=CatalogoClientes(CatalogoClientes)
+comment3.params=
+comment3.target=java.util.Set\ getClientes()
+comment3.text=Set\ com\ todos\ os\ clientes\ lidos.
+comment4.params=
+comment4.target=int\ size()
+comment4.text=Tamanho\ do\ cat\u00E1logo.
+comment5.params=codigo
+comment5.target=boolean\ existeCliente(java.lang.String)
+comment5.text=Verificar\ se\ um\ cliente\ existe.
+comment6.params=codigo
+comment6.target=boolean\ codigoValido(java.lang.String)
+comment6.text=Verificar\ se\ o\ c\u00F3digo\ do\ cliente\ \u00E9\ v\u00E1lido.
+comment7.params=duplicados
+comment7.target=int\ clientesNaoDuplicados(java.util.Set)
+comment7.text=N\u00FAmero\ de\ clientes\ duplicados.
+comment8.params=
+comment8.target=void\ leClientes()
+comment8.text=Ler\ os\ clientes\ do\ ficheiro\ de\ texto.
+numComments=9

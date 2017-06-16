@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TrioCodigoIntDouble()
+comment1.params=s\ x\ z
+comment1.target=TrioCodigoIntDouble(java.lang.String,\ int,\ double)
+comment2.params=t
+comment2.target=TrioCodigoIntDouble(TrioCodigoIntDouble)
+comment3.params=
+comment3.target=java.lang.String\ getCodigo()
+comment4.params=
+comment4.target=int\ getInt()
+comment5.params=
+comment5.target=double\ getDouble()
+comment6.params=arg1\ arg2\ arg3
+comment6.target=java.lang.String\ toString(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment7.params=y\ z
+comment7.target=void\ add(int,\ double)
+comment8.params=t
+comment8.target=void\ add(TrioCodigoIntDouble)
+comment9.params=
+comment9.target=TrioCodigoIntDouble\ clone()
+numComments=10

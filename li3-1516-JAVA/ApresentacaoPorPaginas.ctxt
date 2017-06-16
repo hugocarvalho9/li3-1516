@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=list
+comment0.target=ApresentacaoPorPaginas(java.util.List)
+comment1.params=t\ arg1\ arg2\ arg3
+comment1.target=ApresentacaoPorPaginas(java.util.List,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=list\ arg1\ arg2\ arg3
+comment2.target=ApresentacaoPorPaginas(java.util.Set,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=list\ arg1\ arg2
+comment3.target=ApresentacaoPorPaginas(java.util.Set,\ java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ printLista()
+comment4.text=Mostrar\ menu.
+comment5.params=
+comment5.target=int\ lerPagina()
+comment5.text=Ler\ uma\ op\u00E7\u00E3o\ v\u00E1lida.
+comment6.params=
+comment6.target=int\ getPagina()
+comment6.text=Recebe\ a\ \u00FAltima\ op\u00E7\u00E3o\ lida.
+numComments=7

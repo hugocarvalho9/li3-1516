@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ParInt()
+comment1.params=x\ y
+comment1.target=ParInt(int,\ int)
+comment2.params=
+comment2.target=int\ getPrimeiro()
+comment3.params=
+comment3.target=int\ getSegundo()
+comment4.params=arg1\ arg2
+comment4.target=java.lang.String\ toString(java.lang.String,\ java.lang.String)
+numComments=5

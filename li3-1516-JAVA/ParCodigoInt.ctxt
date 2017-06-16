@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ParCodigoInt()
+comment1.params=codigo
+comment1.target=ParCodigoInt(java.lang.String)
+comment2.params=codigo\ n
+comment2.target=ParCodigoInt(java.lang.String,\ int)
+comment3.params=i
+comment3.target=ParCodigoInt(ParCodigoInt)
+comment4.params=
+comment4.target=int\ getInt()
+comment5.params=
+comment5.target=java.lang.String\ getCodigo()
+comment6.params=y
+comment6.target=void\ setInt(int)
+comment7.params=s
+comment7.target=void\ setCodigo(java.lang.String)
+comment8.params=z
+comment8.target=void\ addInt(int)
+comment9.params=arg1\ arg2
+comment9.target=java.lang.String\ toString(java.lang.String,\ java.lang.String)
+numComments=10
